@@ -1,0 +1,18 @@
+# Build outputs
+*.exe
+*.o
+*.obj
+bin/
+obj/
+
+# Code::Blocks specific
+*.depend
+*.layout
+
+# IDE / OS specific
+.vscode/
+.idea/
+*.suo
+*.user
+*.pdb
+.DS_Store
